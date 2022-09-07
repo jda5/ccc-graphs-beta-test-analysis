@@ -13,4 +13,4 @@ In order to run this script, you will need to install the following. Most of the
 
 You will also need to download the data files, which can be found here: LINK
 
-Finally, you can view and download the app's source code for this beta-testing study here: LINK
+Finally, you can view and download the app's source code for this beta-testing study here: https://github.com/jda5/ccc-graphs-beta
